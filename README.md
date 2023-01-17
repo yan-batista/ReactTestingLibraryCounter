@@ -1,5 +1,4 @@
 # React Counter com React Testing Library
----
 
 ## Sobre
 Esse trabalho foi parte da disciplina de testes automatizados do curso de Sistemas de Informação.
